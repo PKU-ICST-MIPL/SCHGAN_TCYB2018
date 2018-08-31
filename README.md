@@ -9,7 +9,7 @@ For NUSWIDE dataset:
 
 1. Pretrain the model by using the code under pretrain directory (pretrain-nus): python train.py
 2. Train the model by using the code under SCHGAN-nus: python train.py
-3. Generate hash codes for query and database samples: python test.py
+3. Generate hash codes for query and database samples by using the code under SCHGAN-nus: python test.py
 
 Wikipedia and MIRFlickr datasets are similar to the NUSWIDE dataset.
 
