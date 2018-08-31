@@ -7,7 +7,7 @@ Jian Zhang, Yuxin Peng and Mingkuan Yuan, "SCH-GAN: Semi-supervised Cross-modal 
 # Usage
 For NUSWIDE dataset:
 
-1. Pretrain the model by using the code under pretrain directory: python train.py
+1. Pretrain the model by using the code under pretrain directory (pretrain-nus): python train.py
 2. Train the model by using the code under SCHGAN-nus: python train.py
 3. Generate hash codes for query and database samples: python test.py
 
